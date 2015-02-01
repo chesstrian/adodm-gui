@@ -1,0 +1,9 @@
+rutaGrabaciones: "/var/lib/asterisk/sounds/custom/adodm/"
+rutaGrabacionesDelSistema: "/var/lib/asterisk/sounds/custom/"
+rutaBanderas: "../extras/banderas.yaml"
+
+estados:
+  - "Sin Efectuar"
+  - "Por Realizar"
+  - "Exitosa"
+  - "Rechazada"

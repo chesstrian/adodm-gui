@@ -1,0 +1,7 @@
+[UI] - Corregir ortografia (todos los "telefono")
+[Funcionamiento] [Seguridad] - Definir las politicas de borrado y actualización de los datos.
+[Funcionamiento] - Borrar grabación de disco
+[Actualización] - FR significa Futuras Revisiones, es para TODOs.
+[Actualización] - En un futuro debe ser posible guardar en DB las troncales, y asignar a cada llamada una troncal desde la DB.=======
+[100%] - [Funcionamiento] - Borrar grabación de disco
+[100%] - [Funcionamiento] [Seguridad] - Definir las politicas de borrado y actualización de los datos.

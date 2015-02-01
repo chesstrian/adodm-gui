@@ -1,0 +1,71 @@
+a.mini {
+    font-size:smaller;
+    text-decoration:none;
+    font-variant:small-caps;
+}
+a.mini:hover {
+    color:red;
+}
+#contenedor_de_asignacion {
+    width:100%;
+}
+#espacio_droppable_t3 {
+    border:solid;
+    width:100%;
+    text-align:center;
+}
+#espacio_droppable_t4 {
+    border:solid;
+    width:100%;
+    text-align:center;
+}
+#columna_izquierda {
+    /*position:relative;*/
+    float:left;
+    width:12.5%;
+    margin-left:2px;
+}
+#columna_derecha {
+    /*position:relative;*/
+    width:12.5%;
+    float:right;
+    margin-right:2px;
+}
+#columna_central {
+    /*position:relative;*/
+    margin-left:13%;
+    margin-right:13%;
+}
+.telefono {
+    vertical-align:top;
+    border-bottom:solid 1px black;
+}
+.grabacion {
+    vertical-align:top;
+    border-bottom:solid 1px black;
+}
+.grabacion_droppable {
+    border-bottom:solid 1px black;
+}
+.telefono_droppable {
+    border-bottom:solid 1px black;
+}
+
+.upload_div {
+    padding:10px;
+    display:inline-block;
+}
+.boton_envio {
+    font-weight:bold;
+    color:#000000;
+}
+
+.tab {
+    letter-spacing:-1px;
+    font-size:.8em;
+    font-variant:small-caps;
+}
+
+.tab:hover {
+    font-weight:bold;
+}
